@@ -1,0 +1,872 @@
+#
+# Results on Monday April 27 2020 10:31:17 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,other,
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,age,33
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,natlang,f
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,state,f
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,parentlang,f
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,domlang,f
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,otherlang,f
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,gender,female
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,Form,6,0,demographics,NULL,_REACTION_TIME_,11668
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,He drank the coffee.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,NULL,4,NULL,1174
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,She ate the tree.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,NULL,1,NULL,884
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,He plowed the garden.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,NULL,1,NULL,613
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,14,0,practice,NULL,He kicked the flower.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,14,0,practice,NULL,NULL,1,NULL,629
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,15,0,practice,NULL,She conducted the experiment.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,15,0,practice,NULL,NULL,2,NULL,809
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,16,0,practice,NULL,She fought the house.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,16,0,practice,NULL,NULL,2,NULL,677
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,52,0,control,14,Press 2
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,52,0,control,14,NULL,1,NULL,905
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,51,0,control,13,Press 1
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,51,0,control,13,NULL,2,NULL,984
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,55,0,control,17,Press 5
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,55,0,control,17,NULL,2,NULL,647
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,19,0,a,1,He sailed the boat.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,19,0,a,1,NULL,2,NULL,573
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,28,0,b,2,He recommended the secret.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,28,0,b,2,NULL,2,NULL,529
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,56,0,control,18,Press 6
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,56,0,control,18,NULL,2,NULL,548
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,57,0,control,19,Press 7
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,57,0,control,19,NULL,2,NULL,506
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,54,0,control,16,Press 4
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,54,0,control,16,NULL,2,NULL,539
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,46,0,d,4,He published the money.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,46,0,d,4,NULL,2,NULL,544
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,37,0,c,3,She read the tune.
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,37,0,c,3,NULL,2,NULL,541
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,53,0,control,15,Press 3
+1587983477,a36a8d7db57fc9bee5a266cc330d6563,AcceptabilityJudgment,53,0,control,15,NULL,2,NULL,609
+#
+# Results on Monday April 27 2020 12:02:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,other,1
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,age,111111
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,natlang,1
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,state,1
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,parentlang,1
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,domlang,1
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,otherlang,1
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,gender,other
+1587988955,b43b8464b408ad867ff1bbb7316e3725,Form,6,0,demographics,NULL,_REACTION_TIME_,30614
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,He drank the coffee.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,NULL,7,NULL,2503
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,She ate the tree.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,NULL,1,NULL,1395
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,He plowed the garden.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,NULL,2,NULL,1709
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,14,0,practice,NULL,He kicked the flower.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,14,0,practice,NULL,NULL,5,NULL,1898
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,15,0,practice,NULL,She conducted the experiment.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,15,0,practice,NULL,NULL,5,NULL,1224
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,16,0,practice,NULL,She fought the house.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,16,0,practice,NULL,NULL,5,NULL,533
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,54,0,control,16,Press 4
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,54,0,control,16,NULL,5,NULL,1068
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,52,0,control,14,Press 2
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,52,0,control,14,NULL,2,NULL,1016
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,57,0,control,19,Press 7
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,57,0,control,19,NULL,7,NULL,1230
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,30,0,d,2,He recommended the cave.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,30,0,d,2,NULL,4,NULL,1005
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,56,0,control,18,Press 6
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,56,0,control,18,NULL,6,NULL,1038
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,48,0,f,4,He borrowed the car.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,48,0,f,4,NULL,6,NULL,2450
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,55,0,control,17,Press 5
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,55,0,control,17,NULL,5,NULL,1156
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,21,0,c,1,He sailed the sink.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,21,0,c,1,NULL,6,NULL,1168
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,39,0,e,3,She hummed the verse.
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,39,0,e,3,NULL,6,NULL,3554
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,51,0,control,13,Press 1
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,51,0,control,13,NULL,6,NULL,704
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,53,0,control,15,Press 3
+1587988955,b43b8464b408ad867ff1bbb7316e3725,AcceptabilityJudgment,53,0,control,15,NULL,1,NULL,963
+#
+# Results on Wednesday April 29 2020 15:15:09 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+# Design number was non-random = 16
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,4,0,consent,NULL,consent,yes
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,4,0,consent,NULL,_REACTION_TIME_,116303
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,other,
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,age,18
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,natlang,d
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,state,d
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,parentlang,d
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,domlang,d
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,otherlang,d
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,gender,female
+1588173309,391e03c34b7f3517c735ca9d74d87600,Form,6,0,demographics,NULL,_REACTION_TIME_,31476
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,He drank the coffee.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,NULL,7,NULL,2534
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,She ate the tree.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,NULL,2,NULL,2530
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,He plowed the garden.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,NULL,4,NULL,3155
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,14,0,practice,NULL,He kicked the flower.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,14,0,practice,NULL,NULL,4,NULL,1480
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,15,0,practice,NULL,She conducted the experiment.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,15,0,practice,NULL,NULL,7,NULL,1863
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,16,0,practice,NULL,She fought the house.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,16,0,practice,NULL,NULL,4,NULL,1590
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,457,0,g,55,She lost the cellphone.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,457,0,g,55,NULL,5,NULL,4540
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,37,0,c,3,She read the tune.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,37,0,c,3,NULL,3,NULL,1885
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,503,0,e,61,She sliced the cheese.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,503,0,e,61,NULL,6,NULL,2301
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,19,0,a,1,He sailed the boat.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,19,0,a,1,NULL,6,NULL,9240
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,640,0,f,78,She decorated the table.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,640,0,f,78,NULL,5,NULL,3864
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,55,0,e,5,He climbed the hill.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,55,0,e,5,NULL,5,NULL,4259
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,64,0,f,6,He pulled the handle.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,64,0,f,6,NULL,5,NULL,1166
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,46,0,d,4,She published the money.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,46,0,d,4,NULL,2,NULL,2232
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,238,0,d,28,He moved the kitchen.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,238,0,d,28,NULL,3,NULL,2333
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,659,0,control,81,Please press one.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,659,0,control,81,NULL,1,NULL,1642
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,375,0,e,45,He designed the dress.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,375,0,e,45,NULL,4,NULL,27000
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,485,0,c,59,She found the formula.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,485,0,c,59,NULL,5,NULL,1862
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,320,0,f,38,He played the instrument.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,320,0,f,38,NULL,6,NULL,2379
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,594,0,h,72,She produced the harvest.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,594,0,h,72,NULL,5,NULL,3387
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,664,0,control,86,Please press six.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,664,0,control,86,NULL,6,NULL,1688
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,229,0,c,27,She rode the meeting.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,229,0,c,27,NULL,3,NULL,2431
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,82,0,h,8,He leased the office.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,82,0,h,8,NULL,7,NULL,2963
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,128,0,f,14,He wrote the letter.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,128,0,f,14,NULL,7,NULL,1102
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,147,0,a,17,He fluffed the towel.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,147,0,a,17,NULL,6,NULL,1787
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,439,0,e,53,He stole the ring.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,439,0,e,53,NULL,6,NULL,9630
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,531,0,a,65,She published the novel.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,531,0,a,65,NULL,7,NULL,1337
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,567,0,e,69,She filled the syringe.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,567,0,e,69,NULL,6,NULL,3030
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,329,0,g,39,She solved the riddle.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,329,0,g,39,NULL,6,NULL,2048
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,631,0,e,77,She owned the apartment.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,631,0,e,77,NULL,6,NULL,13864
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,174,0,d,20,He drove the aircraft.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,174,0,d,20,NULL,1,NULL,2306
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,220,0,b,26,She hurt the tights.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,220,0,b,26,NULL,2,NULL,1058
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,265,0,g,31,He cooked the turkey.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,265,0,g,31,NULL,2,NULL,873
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,530,0,h,64,She rented the suite.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,530,0,h,64,NULL,3,NULL,2106
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,311,0,e,37,He borrowed the cigarette.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,311,0,e,37,NULL,4,NULL,1358
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,622,0,d,76,She packed the handcart.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,622,0,d,76,NULL,5,NULL,996
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,192,0,f,22,He spilled the water.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,192,0,f,22,NULL,5,NULL,533
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,467,0,a,57,He opened the window.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,467,0,a,57,NULL,5,NULL,510
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,338,0,h,40,She polished the belt.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,338,0,h,40,NULL,5,NULL,551
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,73,0,g,7,She watered the plant.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,73,0,g,7,NULL,5,NULL,566
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,302,0,d,36,She hid the stick.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,302,0,d,36,NULL,5,NULL,572
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,421,0,c,51,She gave the prose.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,421,0,c,51,NULL,5,NULL,615
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,393,0,g,47,She invented the game.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,393,0,g,47,NULL,5,NULL,557
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,101,0,c,11,He added the smoothie.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,101,0,c,11,NULL,5,NULL,563
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,339,0,a,41,She placed the chair.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,339,0,a,41,NULL,5,NULL,552
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,595,0,a,73,He restarted the computer.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,595,0,a,73,NULL,5,NULL,563
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,92,0,b,10,She wore the paper.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,92,0,b,10,NULL,5,NULL,516
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,348,0,b,42,She presented the building.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,348,0,b,42,NULL,5,NULL,541
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,521,0,g,63,He accessed the elevator.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,521,0,g,63,NULL,5,NULL,517
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,384,0,f,46,He played the guitar.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,384,0,f,46,NULL,5,NULL,544
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,604,0,b,74,She founded the journal.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,604,0,b,74,NULL,5,NULL,513
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,274,0,h,32,She wrote the novel.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,274,0,h,32,NULL,5,NULL,476
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,165,0,c,19,He sold the safe.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,165,0,c,19,NULL,5,NULL,520
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,662,0,control,84,Please press four.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,662,0,control,84,NULL,5,NULL,543
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,83,0,a,9,He dropped the doll.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,83,0,a,9,NULL,5,NULL,591
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,585,0,g,71,He rinsed the toothbrush.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,585,0,g,71,NULL,5,NULL,588
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,357,0,c,43,He built the mail.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,357,0,c,43,NULL,5,NULL,559
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,466,0,h,56,She chewed the sandwich.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,466,0,h,56,NULL,5,NULL,535
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,665,0,control,87,Please press seven.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,665,0,control,87,NULL,5,NULL,507
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,402,0,h,48,She proposed the marriage.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,402,0,h,48,NULL,5,NULL,576
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,430,0,d,52,He washed the jewelry.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,430,0,d,52,NULL,5,NULL,617
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,658,0,h,80,She forgot the appointment.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,658,0,h,80,NULL,5,NULL,544
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,119,0,e,13,He prescribed the ointment.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,119,0,e,13,NULL,5,NULL,554
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,211,0,a,25,She chose the makeup.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,211,0,a,25,NULL,5,NULL,682
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,661,0,control,83,Please press three.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,661,0,control,83,NULL,5,NULL,615
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,494,0,d,60,She folded the pan.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,494,0,d,60,NULL,5,NULL,545
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,576,0,f,70,He crashed the car.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,576,0,f,70,NULL,5,NULL,659
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,210,0,h,24,She lit the cigarette.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,210,0,h,24,NULL,5,NULL,582
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,476,0,b,58,She left the coat.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,476,0,b,58,NULL,5,NULL,590
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,448,0,f,54,She shredded the report.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,448,0,f,54,NULL,5,NULL,587
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,558,0,d,68,She rehearsed the donation.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,558,0,d,68,NULL,5,NULL,577
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,275,0,a,33,She presented the sweater.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,275,0,a,33,NULL,5,NULL,602
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,146,0,h,16,He preserved the fossil.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,146,0,h,16,NULL,5,NULL,631
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,28,0,b,2,She recommended the secret.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,28,0,b,2,NULL,5,NULL,830
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,540,0,b,66,He beat the basket.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,540,0,b,66,NULL,5,NULL,522
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,201,0,g,23,He buried the chest.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,201,0,g,23,NULL,5,NULL,529
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,156,0,b,18,He unplugged the bike.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,156,0,b,18,NULL,5,NULL,561
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,512,0,f,62,She ordered the pizza.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,512,0,f,62,NULL,5,NULL,560
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,247,0,e,29,She won the award.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,247,0,e,29,NULL,5,NULL,526
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,660,0,control,82,Please press two.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,660,0,control,82,NULL,5,NULL,1762
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,256,0,f,30,She emptied the plate.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,256,0,f,30,NULL,5,NULL,775
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,663,0,control,85,Please press five.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,663,0,control,85,NULL,5,NULL,454
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,403,0,a,49,He pursued the role.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,403,0,a,49,NULL,5,NULL,479
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,412,0,b,50,He organized the church.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,412,0,b,50,NULL,5,NULL,17606
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,110,0,d,12,He refereed the interview.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,110,0,d,12,NULL,5,NULL,699
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,649,0,g,79,He engraved the bracelet.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,649,0,g,79,NULL,5,NULL,608
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,366,0,d,44,She decorated the loaf.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,366,0,d,44,NULL,5,NULL,545
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,549,0,c,67,He heard the package.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,549,0,c,67,NULL,5,NULL,562
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,137,0,g,15,He painted the wall.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,137,0,g,15,NULL,5,NULL,547
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,613,0,c,75,He got the delivery.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,613,0,c,75,NULL,5,NULL,599
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,183,0,e,21,He unplugged the laptop.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,183,0,e,21,NULL,5,NULL,583
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,284,0,b,34,He kneaded the cake.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,284,0,b,34,NULL,5,NULL,560
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,293,0,c,35,He climbed the bow.
+1588173309,391e03c34b7f3517c735ca9d74d87600,AcceptabilityJudgment,293,0,c,35,NULL,5,NULL,622
+#
+# Results on Wednesday April 29 2020 18:38:50 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+# Design number was non-random = 20
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,4,0,consent,NULL,consent,yes
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,4,0,consent,NULL,_REACTION_TIME_,5009
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,other,
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,age,18
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,natlang,test
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,state,test
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,parentlang,test
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,domlang,test
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,otherlang,test
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,gender,female
+1588185530,b1e89f892bf645d447c96c616eedba86,Form,6,0,demographics,NULL,_REACTION_TIME_,20386
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,He drank the coffee.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,NULL,7,NULL,17515
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,She ate the tree.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,NULL,1,NULL,1843
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,He plowed the garden.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,NULL,4,NULL,2096
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,14,0,practice,NULL,He kicked the flower.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,14,0,practice,NULL,NULL,4,NULL,1914
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,15,0,practice,NULL,She conducted the experiment.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,15,0,practice,NULL,NULL,7,NULL,2760
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,16,0,practice,NULL,She fought the house.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,16,0,practice,NULL,NULL,2,NULL,1667
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,617,0,g,75,He paid the delivery.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,617,0,g,75,NULL,6,NULL,11148
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,608,0,f,74,She read the journal.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,608,0,f,74,NULL,7,NULL,1346
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,215,0,e,25,She misplaced the makeup.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,215,0,e,25,NULL,5,NULL,2153
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,352,0,f,42,She destroyed the building.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,352,0,f,42,NULL,5,NULL,3530
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,499,0,a,61,She grated the cheese.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,499,0,a,61,NULL,7,NULL,1989
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,297,0,g,35,He tied the bow.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,297,0,g,35,NULL,7,NULL,3218
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,32,0,f,2,She discovered the secret.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,32,0,f,2,NULL,6,NULL,2703
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,188,0,b,22,He brewed the water.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,188,0,b,22,NULL,1,NULL,2075
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,526,0,d,64,She ironed the suite.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,526,0,d,64,NULL,2,NULL,58463
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,581,0,c,71,He peeled the toothbrush.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,581,0,c,71,NULL,2,NULL,3453
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,307,0,a,37,He took the cigarette.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,307,0,a,37,NULL,6,NULL,2029
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,87,0,e,9,He ripped the doll.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,87,0,e,9,NULL,5,NULL,2101
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,371,0,a,45,He sewed the dress.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,371,0,a,45,NULL,6,NULL,3361
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,334,0,d,40,She shattered the belt.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,334,0,d,40,NULL,2,NULL,4158
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,105,0,g,11,He stirred the smoothie.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,105,0,g,11,NULL,6,NULL,9244
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,444,0,b,54,She misplaced the report.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,444,0,b,54,NULL,5,NULL,2349
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,563,0,a,69,She sterilized the syringe.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,563,0,a,69,NULL,1,NULL,2156
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,252,0,b,30,She shared the plate.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,252,0,b,30,NULL,3,NULL,2532
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,659,0,control,81,Please press one.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,659,0,control,81,NULL,1,NULL,1645
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,224,0,f,26,She tore the tights.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,224,0,f,26,NULL,6,NULL,3054
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,361,0,g,43,He delivered the mail.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,361,0,g,43,NULL,7,NULL,2317
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,69,0,c,7,She mowed the plant.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,69,0,c,7,NULL,3,NULL,3929
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,288,0,f,34,He tasted the cake.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,288,0,f,34,NULL,7,NULL,1817
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,114,0,h,12,He organized the interview.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,114,0,h,12,NULL,4,NULL,9502
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,197,0,c,23,He found the chest.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,197,0,c,23,NULL,5,NULL,1709
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,453,0,c,55,She wore the cellphone.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,453,0,c,55,NULL,1,NULL,2691
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,435,0,a,53,He purchased the ring.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,435,0,a,53,NULL,7,NULL,1797
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,663,0,control,85,Please press five.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,663,0,control,85,NULL,5,NULL,1605
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,115,0,a,13,He applied the ointment.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,115,0,a,13,NULL,6,NULL,3681
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,306,0,h,36,She threw the stick.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,306,0,h,36,NULL,5,NULL,3557
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,51,0,a,5,He saw the hill.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,51,0,a,5,NULL,4,NULL,2225
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,41,0,g,3,She hummed the tune.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,41,0,g,3,NULL,5,NULL,1629
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,664,0,control,86,Please press six.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,664,0,control,86,NULL,6,NULL,1382
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,590,0,d,72,She directed the harvest.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,590,0,d,72,NULL,4,NULL,63366
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,380,0,b,46,He hid the guitar.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,380,0,b,46,NULL,5,NULL,2192
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,133,0,c,15,He snapped the wall.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,133,0,c,15,NULL,2,NULL,1897
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,179,0,a,21,He left the laptop.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,179,0,a,21,NULL,4,NULL,2733
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,142,0,d,16,He pushed the fossil.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,142,0,d,16,NULL,4,NULL,2665
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,243,0,a,29,She declined the award.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,243,0,a,29,NULL,6,NULL,2541
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,206,0,d,24,She discovered the cigarette.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,206,0,d,24,NULL,3,NULL,2464
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,425,0,g,51,She wrote the prose.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,425,0,g,51,NULL,2,NULL,2545
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,517,0,c,63,He deleted the elevator.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,517,0,c,63,NULL,2,NULL,1640
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,178,0,h,20,He crashed the aircraft.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,178,0,h,20,NULL,6,NULL,2929
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,370,0,h,44,She baked the loaf.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,370,0,h,44,NULL,7,NULL,2508
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,316,0,b,38,He shredded the instrument.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,316,0,b,38,NULL,5,NULL,4085
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,398,0,d,48,She developed the marriage.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,398,0,d,48,NULL,1,NULL,5337
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,389,0,c,47,She wrote the game.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,389,0,c,47,NULL,5,NULL,2631
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,343,0,e,41,She varnished the chair.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,343,0,e,41,NULL,5,NULL,3531
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,636,0,b,78,She admired the table.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,636,0,b,78,NULL,6,NULL,2029
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,50,0,h,4,She borrowed the money.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,50,0,h,4,NULL,7,NULL,2290
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,151,0,e,17,He dried the towel.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,151,0,e,17,NULL,6,NULL,2201
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,626,0,h,76,She pulled the handcart.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,626,0,h,76,NULL,6,NULL,2921
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,160,0,f,18,He repaired the bike.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,160,0,f,18,NULL,7,NULL,2106
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,169,0,g,19,He locked the safe.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,169,0,g,19,NULL,6,NULL,2530
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,407,0,e,49,He rehearsed the role.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,407,0,e,49,NULL,5,NULL,2266
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,60,0,b,6,He cut the handle.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,60,0,b,6,NULL,2,NULL,2410
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,599,0,e,73,He kicked the computer.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,599,0,e,73,NULL,5,NULL,2145
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,489,0,g,59,She memorized the formula.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,489,0,g,59,NULL,6,NULL,5075
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,471,0,e,57,He broke the window.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,471,0,e,57,NULL,6,NULL,1655
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,535,0,e,65,She planned the novel.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,535,0,e,65,NULL,4,NULL,2384
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,572,0,b,70,He landed the car.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,572,0,b,70,NULL,1,NULL,2154
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,508,0,b,62,She sipped the pizza.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,508,0,b,62,NULL,1,NULL,1665
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,627,0,a,77,She kept the apartment.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,627,0,a,77,NULL,5,NULL,2305
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,665,0,control,87,Please press seven.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,665,0,control,87,NULL,7,NULL,1533
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,261,0,c,31,He harvested the turkey.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,261,0,c,31,NULL,2,NULL,3961
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,654,0,d,80,She withdrew the appointment.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,654,0,d,80,NULL,3,NULL,3312
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,279,0,e,33,She wore the sweater.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,279,0,e,33,NULL,7,NULL,1978
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,662,0,control,84,Please press four.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,662,0,control,84,NULL,4,NULL,1262
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,23,0,e,1,He fixed the boat.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,23,0,e,1,NULL,6,NULL,3081
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,462,0,d,56,She dropped the sandwich.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,462,0,d,56,NULL,4,NULL,3425
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,96,0,f,10,She tore the paper.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,96,0,f,10,NULL,6,NULL,7702
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,480,0,f,58,She unzipped the coat.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,480,0,f,58,NULL,6,NULL,8211
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,434,0,h,52,He sold the jewelry.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,434,0,h,52,NULL,7,NULL,3292
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,660,0,control,82,Please press two.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,660,0,control,82,NULL,2,NULL,1492
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,544,0,f,66,He weaved the basket.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,544,0,f,66,NULL,6,NULL,2507
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,124,0,b,14,He rehearsed the letter.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,124,0,b,14,NULL,3,NULL,2139
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,270,0,d,32,She fabricated the novel.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,270,0,d,32,NULL,2,NULL,2331
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,562,0,h,68,She refused the donation.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,562,0,h,68,NULL,5,NULL,2948
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,78,0,d,8,He plowed the office.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,78,0,d,8,NULL,2,NULL,3222
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,325,0,c,39,She proved the riddle.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,325,0,c,39,NULL,2,NULL,5532
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,233,0,g,27,She missed the meeting.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,233,0,g,27,NULL,6,NULL,2419
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,645,0,c,79,He spotted the bracelet.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,645,0,c,79,NULL,6,NULL,2851
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,661,0,control,83,Please press three.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,661,0,control,83,NULL,3,NULL,1454
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,242,0,h,28,He cleaned the kitchen.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,242,0,h,28,NULL,6,NULL,1887
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,416,0,f,50,He attended the church.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,416,0,f,50,NULL,7,NULL,2211
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,498,0,h,60,She washed the pan.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,498,0,h,60,NULL,7,NULL,2115
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,553,0,g,67,He received the package.
+1588185530,b1e89f892bf645d447c96c616eedba86,AcceptabilityJudgment,553,0,g,67,NULL,7,NULL,1955
+#
+# Results on Thursday April 30 2020 06:43:15 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 OPR/67.0.3575.137 (Edition avira-2)
+# Design number was non-random = 21
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,4,0,consent,NULL,consent,yes
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,4,0,consent,NULL,_REACTION_TIME_,23104
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,other,
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,age,25
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,natlang,english
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,state,UK
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,parentlang,english
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,domlang,english
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,otherlang,no
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,gender,female
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,Form,6,0,demographics,NULL,_REACTION_TIME_,30951
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,He drank the coffee.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,7,0,GuidedPractice1,NULL,NULL,7,NULL,3321
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,She ate the tree.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,9,0,GuidedPractice2,NULL,NULL,2,NULL,3387
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,He plowed the garden.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,11,0,GuidedPractice3,NULL,NULL,3,NULL,5251
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,14,0,practice,NULL,He kicked the flower.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,14,0,practice,NULL,NULL,4,NULL,4930
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,15,0,practice,NULL,She conducted the experiment.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,15,0,practice,NULL,NULL,7,NULL,3437
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,16,0,practice,NULL,She fought the house.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,16,0,practice,NULL,NULL,5,NULL,7428
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,454,0,d,55,She wore the key.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,454,0,d,55,NULL,4,NULL,4338
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,619,0,a,76,She packed the bag.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,619,0,a,76,NULL,4,NULL,1978
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,527,0,e,64,She rented the suit.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,527,0,e,64,NULL,4,NULL,1785
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,61,0,c,6,He cut the trigger.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,61,0,c,6,NULL,4,NULL,1402
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,33,0,g,2,She discovered the treasure.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,33,0,g,2,NULL,4,NULL,2304
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,42,0,h,3,She hummed the harmony.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,42,0,h,3,NULL,4,NULL,2216
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,308,0,b,37,He took the book.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,308,0,b,37,NULL,4,NULL,2116
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,381,0,c,46,He hid the piano.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,381,0,c,46,NULL,4,NULL,2407
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,417,0,g,50,He attended the school.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,417,0,g,50,NULL,4,NULL,1842
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,116,0,b,13,He applied the pill.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,116,0,b,13,NULL,4,NULL,2114
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,554,0,h,67,He received the award.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,554,0,h,67,NULL,4,NULL,2027
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,280,0,f,33,She wore the necklace.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,280,0,f,33,NULL,4,NULL,2384
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,289,0,g,34,He tasted the jam.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,289,0,g,34,NULL,4,NULL,2411
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,545,0,g,66,He weaved the hammock.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,545,0,g,66,NULL,4,NULL,2582
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,659,0,control,81,Please press one.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,659,0,control,81,NULL,1,NULL,2678
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,372,0,b,45,He sewed the homepage.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,372,0,b,45,NULL,4,NULL,5261
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,661,0,control,83,Please press three.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,661,0,control,83,NULL,3,NULL,2172
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,24,0,f,1,He fixed the table.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,24,0,f,1,NULL,4,NULL,1935
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,125,0,c,14,He rehearsed the book.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,125,0,c,14,NULL,4,NULL,4351
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,663,0,control,85,Please press five.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,663,0,control,85,NULL,5,NULL,2059
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,79,0,e,8,He leased the field.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,79,0,e,8,NULL,5,NULL,2812
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,299,0,a,36,She hid the toy.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,299,0,a,36,NULL,5,NULL,3010
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,490,0,h,59,She memorized the equation.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,490,0,h,59,NULL,5,NULL,3688
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,106,0,h,11,He stirred the soup.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,106,0,h,11,NULL,5,NULL,3091
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,646,0,d,79,He spotted the watch.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,646,0,d,79,NULL,5,NULL,1876
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,43,0,a,4,She published the book.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,43,0,a,4,NULL,5,NULL,1454
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,244,0,b,29,She declined the race.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,244,0,b,29,NULL,5,NULL,1605
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,426,0,h,51,She wrote the email.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,426,0,h,51,NULL,5,NULL,1651
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,225,0,g,26,She tore the pants.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,225,0,g,26,NULL,5,NULL,2137
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,665,0,control,87,Please press seven.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,665,0,control,87,NULL,7,NULL,2360
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,481,0,g,58,She unzipped the boot.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,481,0,g,58,NULL,5,NULL,1930
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,463,0,e,56,She chewed the cookie.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,463,0,e,56,NULL,5,NULL,2283
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,427,0,a,52,He washed the t-shirt.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,427,0,a,52,NULL,5,NULL,1601
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,555,0,a,68,She rehearsed the part.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,555,0,a,68,NULL,5,NULL,3601
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,509,0,c,62,She sipped the taxi.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,509,0,c,62,NULL,5,NULL,1890
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,600,0,f,73,He kicked the ball.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,600,0,f,73,NULL,5,NULL,1347
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,88,0,f,9,He ripped the jeans.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,88,0,f,9,NULL,5,NULL,1217
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,271,0,e,32,She wrote the story.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,271,0,e,32,NULL,5,NULL,1265
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,134,0,d,15,He snapped the fence.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,134,0,d,15,NULL,5,NULL,1666
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,660,0,control,82,Please press two.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,660,0,control,82,NULL,2,NULL,1764
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,500,0,b,61,She grated the bread.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,500,0,b,61,NULL,2,NULL,3278
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,198,0,d,23,He found the casket.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,198,0,d,23,NULL,2,NULL,1625
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,189,0,c,22,He brewed the wine.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,189,0,c,22,NULL,2,NULL,1264
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,161,0,g,18,He repaired the shed.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,161,0,g,18,NULL,2,NULL,2284
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,472,0,f,57,He broke the arm.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,472,0,f,57,NULL,2,NULL,1231
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,216,0,f,25,She misplaced the key.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,216,0,f,25,NULL,2,NULL,1938
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,326,0,d,39,She proved the problem.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,326,0,d,39,NULL,2,NULL,1804
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,362,0,h,43,He delivered the speech.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,362,0,h,43,NULL,2,NULL,1686
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,591,0,e,72,She produced the movie.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,591,0,e,72,NULL,2,NULL,2909
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,664,0,control,86,Please press six.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,664,0,control,86,NULL,6,NULL,2180
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,70,0,d,7,She mowed the tree.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,70,0,d,7,NULL,6,NULL,1968
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,518,0,d,63,He deleted the safe.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,518,0,d,63,NULL,6,NULL,1895
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,399,0,e,48,She proposed the project.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,399,0,e,48,NULL,6,NULL,2663
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,582,0,d,71,He peeled the plate.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,582,0,d,71,NULL,6,NULL,1843
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,298,0,h,35,He tied the necktie.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,298,0,h,35,NULL,6,NULL,1719
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,335,0,e,40,She polished the mirror.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,335,0,e,40,NULL,6,NULL,2001
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,628,0,b,77,She kept the house.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,628,0,b,77,NULL,6,NULL,1508
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,445,0,c,54,She misplaced the paper.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,445,0,c,54,NULL,6,NULL,1302
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,408,0,f,49,He rehearsed the speech.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,408,0,f,49,NULL,6,NULL,2512
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,171,0,a,20,He drove the scooter.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,171,0,a,20,NULL,6,NULL,1321
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,207,0,e,24,She lit the candle.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,207,0,e,24,NULL,6,NULL,1518
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,564,0,b,69,She sterilized the bottle.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,564,0,b,69,NULL,6,NULL,3005
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,170,0,h,19,He locked the cubicle.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,170,0,h,19,NULL,6,NULL,1252
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,317,0,c,38,He shredded the game.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,317,0,c,38,NULL,6,NULL,1364
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,152,0,f,17,He dried the sheet.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,152,0,f,17,NULL,6,NULL,1334
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,662,0,control,84,Please press four.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,662,0,control,84,NULL,4,NULL,2141
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,52,0,b,5,He saw the rock.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,52,0,b,5,NULL,4,NULL,2871
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,344,0,f,41,She varnished the table.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,344,0,f,41,NULL,4,NULL,1985
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,353,0,g,42,She destroyed the vehicle.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,353,0,g,42,NULL,4,NULL,1445
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,618,0,h,75,He paid the shopping.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,618,0,h,75,NULL,4,NULL,1366
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,390,0,d,47,She wrote the robot.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,390,0,d,47,NULL,4,NULL,1660
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,363,0,a,44,She decorated the cake.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,363,0,a,44,NULL,4,NULL,1560
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,180,0,b,21,He left the television.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,180,0,b,21,NULL,4,NULL,1461
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,235,0,a,28,He moved the board.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,235,0,a,28,NULL,4,NULL,1541
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,536,0,f,65,She planned the trip.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,536,0,f,65,NULL,4,NULL,1683
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,436,0,b,53,He purchased the bike.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,436,0,b,53,NULL,4,NULL,2829
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,97,0,g,10,She tore the sheet.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,97,0,g,10,NULL,4,NULL,1793
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,253,0,c,30,She shared the glass.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,253,0,c,30,NULL,4,NULL,1552
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,491,0,a,60,She folded the handkerchief.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,491,0,a,60,NULL,4,NULL,3491
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,107,0,a,12,He refereed the game.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,107,0,a,12,NULL,4,NULL,41330
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,655,0,e,80,She forgot the testimony.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,655,0,e,80,NULL,4,NULL,2217
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,637,0,c,78,She admired the wall.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,637,0,c,78,NULL,4,NULL,1584
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,143,0,e,16,He preserved the sculpture.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,143,0,e,16,NULL,4,NULL,3243
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,234,0,h,27,She missed the lecture.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,234,0,h,27,NULL,4,NULL,1275
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,609,0,g,74,She read the biography.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,609,0,g,74,NULL,4,NULL,1657
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,262,0,d,31,He harvested the dinner.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,262,0,d,31,NULL,4,NULL,2629
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,573,0,c,70,He landed the truck.
+1588228995,1eb10947416db1e1c5fe757fe61b2a45,AcceptabilityJudgment,573,0,c,70,NULL,4,NULL,2350
